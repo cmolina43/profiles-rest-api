@@ -138,3 +138,4 @@ eb-package.zip
 static/
 
 .idea/
+.DS_Store
